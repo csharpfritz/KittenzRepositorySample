@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.128
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KittenzRepositorySample", "KittenzRepositorySample\KittenzRepositorySample.csproj", "{45E30FB3-2297-4F63-AA47-1A10914968AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45E30FB3-2297-4F63-AA47-1A10914968AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45E30FB3-2297-4F63-AA47-1A10914968AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45E30FB3-2297-4F63-AA47-1A10914968AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45E30FB3-2297-4F63-AA47-1A10914968AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47580B1B-A993-4461-BCBE-B1FE1FF28C65}
+	EndGlobalSection
+EndGlobal
