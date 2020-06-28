@@ -1,4 +1,6 @@
-﻿namespace KittenzRepositorySample.Data
+﻿using System.Runtime.Serialization;
+
+namespace KittenzRepositorySample.Data
 {
 	public class DadJoke {
 
