@@ -27,8 +27,10 @@ namespace KittenzRepositorySample
 		public void ConfigureServices(IServiceCollection services)
 		{
 
-			services.AddTransient<IRepository, JsonRepository>();
+			services.AddScoped<IRepository, GitHubRepository>();
+			//services.AddTransient<IRepository, JsonRepository>();
 
+			services.AddHttpClient();
 			services.AddControllers();
 		}
 
